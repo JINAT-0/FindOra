@@ -164,3 +164,4 @@ export function ClaimResolutionView({ initialClaims }: { initialClaims: Claim[] 
     </div>
   );
 }
+

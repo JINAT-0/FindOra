@@ -32,10 +32,10 @@ export const Select = React.forwardRef<HTMLSelectElement, SelectProps>(
           >
             {options
               ? options.map((opt) => (
-                  <option key={opt.value} value={opt.value}>
-                    {opt.label}
-                  </option>
-                ))
+                <option key={opt.value} value={opt.value}>
+                  {opt.label}
+                </option>
+              ))
               : children}
           </select>
           <div className="pointer-events-none absolute inset-y-0 right-0 flex items-center px-3 text-neutral-400">

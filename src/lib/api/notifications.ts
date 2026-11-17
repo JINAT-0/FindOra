@@ -21,3 +21,4 @@ export async function markAllNotificationsReadAction() {
   revalidatePath("/dashboard/notifications");
   return { success: true };
 }
+

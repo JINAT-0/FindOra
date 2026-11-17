@@ -542,3 +542,4 @@ CREATE POLICY "Authenticated Users Upload Profile Images"
         bucket_id = 'profile-images'
         AND auth.role() = 'authenticated'
     );
+

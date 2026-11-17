@@ -37,3 +37,4 @@ export function ItemTypePill({ type }: { type: ItemType }) {
     </span>
   );
 }
+

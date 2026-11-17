@@ -803,3 +803,4 @@ class FindoraStore {
 
 // Global singleton instance
 export const store = new FindoraStore();
+

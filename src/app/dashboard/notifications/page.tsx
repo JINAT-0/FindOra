@@ -7,3 +7,4 @@ export default function NotificationsPage() {
 
   return <NotificationsView initialNotifications={notifications} />;
 }
+

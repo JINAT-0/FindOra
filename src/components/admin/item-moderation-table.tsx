@@ -110,3 +110,4 @@ export function ItemModerationTable({ initialItems }: { initialItems: Item[] }) 
     </div>
   );
 }
+

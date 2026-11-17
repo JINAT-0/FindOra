@@ -14,3 +14,4 @@ INSERT INTO public.categories (id, name, slug, icon, description) VALUES
 ('c0000001-0000-0000-0000-000000000007', 'Personal Belongings', 'personal', 'HeartHandshake', 'Water bottles, spectacles/glasses, medical devices, sports gear'),
 ('c0000001-0000-0000-0000-000000000008', 'Other', 'other', 'HelpCircle', 'Miscellaneous items not classified above')
 ON CONFLICT (id) DO NOTHING;
+

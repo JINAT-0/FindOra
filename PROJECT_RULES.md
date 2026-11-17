@@ -34,3 +34,4 @@ This document defines the strict engineering guidelines, architectural invariant
    - Brand Amber: `#E9A23B`
 2. **No Dead Buttons**: Every clickable element must trigger a state change, modal, navigation, or server operation.
 3. **State Completeness**: Every async feature must provide Loading, Success, Error, and Empty states.
+

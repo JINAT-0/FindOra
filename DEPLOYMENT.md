@@ -89,3 +89,4 @@ Navigate to **Project Settings -> API** and copy:
 5. [x] Create a Lost item post and Found item post with matching keywords and verify the Smart Matching Engine flags high correspondence.
 6. [x] Submit an Ownership Claim and verify confidential evidence is accessible only in `/admin/claims`.
 7. [x] Approve claim and verify item status transitions to "Reunited" with notification and audit history logged.
+

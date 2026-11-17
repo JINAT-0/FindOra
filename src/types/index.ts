@@ -154,3 +154,4 @@ export interface PlatformStats {
   reportedPosts: number;
   recoveryRate: number; // percentage
 }
+

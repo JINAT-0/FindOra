@@ -70,3 +70,4 @@ export async function resolveClaimAction(
   revalidatePath("/items");
   return { success: true, claim: result };
 }
+

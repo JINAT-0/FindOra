@@ -42,3 +42,4 @@ export default function ReportFoundPage() {
     </div>
   );
 }
+

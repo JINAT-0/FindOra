@@ -172,3 +172,4 @@ The application includes a built-in Persona Switcher in the user dropdown:
 2. **Sourov Sarkar (Approved Student - CSE)**: Full student access to report items, view matches, and submit claims.
 3. **Dr. Mahbubur Rahman (Faculty Member - CSE)**: Teacher role with verified campus posting rights.
 4. **Nafis Hasan (Pending Member - EEE)**: Demonstrates the pending verification state restriction.
+

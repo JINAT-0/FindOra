@@ -246,3 +246,4 @@ export async function getAllUserMatches(): Promise<SmartMatchResult[]> {
 
   return results.sort((a, b) => b.totalScore - a.totalScore);
 }
+

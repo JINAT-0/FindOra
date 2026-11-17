@@ -165,3 +165,4 @@ export function getItemTypeBadge(type: ItemType) {
     accent: "text-emerald-600",
   };
 }
+

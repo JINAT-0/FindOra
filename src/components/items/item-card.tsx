@@ -72,3 +72,4 @@ export function ItemCard({ item }: { item: Item }) {
     </Link>
   );
 }
+

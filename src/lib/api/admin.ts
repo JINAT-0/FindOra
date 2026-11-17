@@ -59,3 +59,4 @@ export async function addCategoryAction(data: { name: string; slug: string; icon
   revalidatePath("/items");
   return { success: true, category: newCat };
 }
+
